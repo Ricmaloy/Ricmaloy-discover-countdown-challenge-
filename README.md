@@ -2,19 +2,6 @@
   <h1>Desafio Countdown 🛡️</h1>
 </div>
 
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Ricmaloy/discover-countdown-challenge?color=5852C2">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Ricmaloy/discover-countdown-challenge?color=645CE0">
-  
-  <a href="https://github.com/Ricmaloy/discover-countdown-challenge/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Ricmaloy/discover-countdown-challenge?color=6961F2">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/Ricmaloy/discover-countdown-challenge?color=6C63FF">
-</p>
-
 ![Capa (1)](https://user-images.githubusercontent.com/47280196/215862799-d1fee6fc-cdeb-495a-9736-5988238c0d29.png)
 
 # 🧠 Sobre
@@ -46,7 +33,7 @@ Neste desafio você deve criar uma página de `coming soon` para o lançamento d
     
 # ⚙️ Instalação
 
-bash
+```bash
 # Clone o repositório
 $ git clone https://github.com/Ricmaloy/discover-countdown-challenge.git
 
@@ -55,7 +42,7 @@ $ cd discover-countdown-challenge
 
 # Execute a aplicação
 $ Utilize um `live server` da vida para rodar o projeto
-
+```
 
 # 🍻 Contatos
 
